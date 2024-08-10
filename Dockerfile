@@ -20,4 +20,4 @@ RUN pip3 install -r requirements.txt
 COPY . /telegram_youtube_downloader
 
 # Run
-CMD ["python3", "telegram_youtube_downloader"]
+CMD ["python3", "telegram_youtube_downloader", "6483166923:AAGUztduJW4SZlMq_vOdDy_TwOTgs6hsAZk"]
