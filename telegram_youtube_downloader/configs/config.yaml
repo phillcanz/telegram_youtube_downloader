@@ -10,7 +10,7 @@ telegram_bot_options:
   audio_timeout_seconds: 300                      # 5 min
 
   base_url: null                                  # See docs/API_SERVER.md for more information (Ex: http://telegram-bot-api:8081/bot)
-  default_command: null                           # audio,video,null docs/CONFIGURATIONS.md for more information
+  default_command: video                           # audio,video,null docs/CONFIGURATIONS.md for more information
 
   authorization_options:
     mode: "DISABLED"                              # See docs/CONFIGURATIONS.md for more information about authorization
